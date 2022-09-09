@@ -1,3 +1,9 @@
+nginx-ldap-auth (0.0.4-1) UNRELEASED; urgency=low
+
+  * update to python3
+
+ -- Benjamin Rechsteiner <benjamin.rechsteiner@darkfire.ch>  Fri, 09 Sep 2022 14:32:15 +0300
+
 nginx-ldap-auth (0.0.3-2) UNRELEASED; urgency=low
 
   * Initial release
