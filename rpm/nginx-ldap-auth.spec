@@ -63,5 +63,5 @@ fi;
 /usr/bin/systemctl daemon-reload >/dev/null 2>&1 ||:
 
 %changelog
-* Wed Nov 02 2016 Konstantin Pavlov <thresh@nginx.com> 0.0.3-1
+* Wed Nov 02 2016 Konstantin Pavlov <thresh@nginx.com> 0.0.3-2
 - Initial release
