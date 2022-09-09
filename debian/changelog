@@ -1,4 +1,4 @@
-nginx-ldap-auth (0.0.4-1) UNRELEASED; urgency=low
+nginx-ldap-auth (0.0.6-1) UNRELEASED; urgency=low
 
   * update to python3
 
