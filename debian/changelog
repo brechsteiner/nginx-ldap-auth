@@ -1,5 +1,5 @@
-nginx-ldap-auth (0.0.7-1) UNRELEASED; urgency=low
+nginx-ldap-auth (0.0.7-2) UNRELEASED; urgency=low
 
   * removed dh-systemd
 
- -- Benjamin Rechsteiner <benjamin.rechsteiner@darkfire.ch>  Mo, 26 Sep 2022 12:32:15 +0100
+ -- Benjamin Rechsteiner <benjamin.rechsteiner@darkfire.ch>  Mon, 26 Sep 2022 12:32:15 +0100
