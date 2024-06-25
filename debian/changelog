@@ -1,3 +1,9 @@
+nginx-ldap-auth (0.0.7-3) UNRELEASED; urgency=low
+
+  * merged from upstream
+
+ -- Benjamin Rechsteiner <benjamin.rechsteiner@darkfire.ch>  Tue, 25 Jun 2024 11:13:15 +0100
+
 nginx-ldap-auth (0.0.7-2) UNRELEASED; urgency=low
 
   * removed dh-systemd
